@@ -73,9 +73,5 @@ This project addresses these questions through structured analysis and visualiza
 The Power BI dashboard provides a clear and interactive view of customer behavior and revenue performance.  
 Users can filter data by category, age group, subscription status, discount usage, and shipping type to explore insights in detail.
 
-*(Power BI dashboard file is included in the repository.)*
-
 ---
-
-## Repository Structure
-
+![Customer Revenue Dashboard](C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-01-16 123011.png)
