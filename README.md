@@ -74,4 +74,4 @@ The Power BI dashboard provides a clear and interactive view of customer behavio
 Users can filter data by category, age group, subscription status, discount usage, and shipping type to explore insights in detail.
 
 ---
-![Customer Revenue Dashboard](C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-01-16 123011.png)
+<img width="1167" height="652" alt="dashboard png" src="https://github.com/user-attachments/assets/f5e513de-04df-40b0-8132-f70ba8161aa6" />
